@@ -8,6 +8,8 @@ import (
 	"github.com/k-sml/go-rdbms/internal/pager"
 )
 
+// https://chatgpt.com/c/6898734d-0214-832a-8722-64116c65ff3a
+
 func main() {
 	// コマンドライン引数の数をチェック（データベースファイル名が必要）
 	if len(os.Args) < 2 {
