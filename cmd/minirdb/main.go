@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/minirdb/internal/pager"
+	"github.com/k-sml/go-rdbms/internal/pager"
 )
 
 func main() {
